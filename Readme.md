@@ -41,7 +41,7 @@ Potential features may include:
 
 ## Getting Started
 
-1. Visit [dex.sidachain.com](https://dex.sidrachain.com).
+1. Visit [dex.sidrachain.com](https://dex.sidachain.com).
 2. Verify the website and its official status before connecting a wallet.
 3. Review the supported wallets and available features.
 4. Check transaction details and network information before approving transactions.
@@ -56,8 +56,8 @@ SidraChain DEX aims to provide access to decentralized blockchain services. Revi
 
 ## Connect With Us
 
-* 🌍 **DEX Website** → [dex.sidachain.com](https://dex.sidrachain.com)
-* 📱 **Mobile Access** → [dex.sidachain.com](https://dex.sidrachain.com)
+* 🌍 **DEX Website** → [dex.sidrachain.com](https://dex.sidachain.com)
+* 📱 **Mobile Access** → [dex.sidrachain.com](https://dex.sidachain.com)
 
 ---
 
